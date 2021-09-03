@@ -2,7 +2,7 @@
 
 ### [Live Site](https://jsmasterypro.com)
 
-![Portfolio Website](https://ibb.co/DwYR5DZ)
+![Portfolio Website](https://i.ibb.co/5skRBWP/123.png)
 
 
 Setup:
